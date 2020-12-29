@@ -16,6 +16,8 @@ Projede model olarak, açık kaynak kodlu derin öğrenme çerçevesi(framework)
 Fotoğrafta çalıştırmak için terminale şu kodu girin:
 
 ```python detect_age.py --face face_detector --age age_detector --gender gender_detector --image images/f.jpeg```
+
 Gerçek zamanlı kamerada çalıştırmak için terminale şu kodu girin:
 
 ````python detect_age_video.py --face face_detector --age age_detector --gender gender_detector````
+
