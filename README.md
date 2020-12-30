@@ -23,6 +23,6 @@ Gerçek zamanlı kamerada çalıştırmak için terminale şu kodu girin:
 
 **TAHMİNİ SONUÇ**
 
-<img src=“images/pp.jpg”>
+<img src=“images/pp.jpg”/>
 
-![](images/pp.jpg)
+![](images/Screenshot.png)
