@@ -8,7 +8,7 @@ Projede model olarak, açık kaynak kodlu derin öğrenme çerçevesi(framework)
 **GEREKSİNİMLER**
 - *Python 3.6*
 - *Anaconda3 (Paket sürümleri conda paket yönetim sistemi ile yönetilir)*
-- _Opencv kütüphanesi_
+- _OpenCV kütüphanesi_
 - *Eğitilmiş Caffe modelleri* ( ```face-detector```, ```age-detector```, ```gender-detector``` )
 
 **KULLANIM**
