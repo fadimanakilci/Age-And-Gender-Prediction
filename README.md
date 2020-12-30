@@ -21,9 +21,4 @@ Gerçek zamanlı kamerada çalıştırmak için terminale şu kodu girin:
 
 ````python detect_age_video.py --face face_detector --age age_detector --gender gender_detector````
 
-<img
-src=“images/pp.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+<img src=“images/pp.jpg”/>
