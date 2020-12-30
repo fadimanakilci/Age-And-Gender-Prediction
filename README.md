@@ -23,6 +23,6 @@ Gerçek zamanlı kamerada çalıştırmak için terminale şu kodu girin:
 
 **TAHMİNİ SONUÇ**
 
-<img src=“images/pp.jpg” raw=true alt=“Subject Pronouns” style=“margin-right: 10px;”/>
+<img src=“images/pp.jpg” raw=true style=“margin-right: 10px;”/>
 
 ![](images/Screenshot.png)
